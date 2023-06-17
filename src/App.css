@@ -1,0 +1,88 @@
+i {
+  cursor: pointer;
+  margin-bottom: 6px;
+  margin-right: 6px;
+  text-align: center;
+}
+
+.myform {
+  margin-top: 25px;
+
+}
+
+#signupContainer {
+  margin-top: 10px;
+  background-color: '#eee';
+  /* width: 100vw; */
+}
+
+body {
+  background-color: rgb(194, 194, 194);
+}
+
+#headingNotes {
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+#notesContainer {
+  text-transform: capitalize;
+  text-align: center;
+  background-color: rgb(223, 221, 221);
+  border: 3px solid white;
+  border-radius: 5px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-bottom: 30px;
+}
+
+#ItemContainer {
+  display: inline-block;
+  margin: 5px;
+  padding: 3px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+#addNoteButton {
+  border: 2px solid black;
+  z-index: 3;
+  display: inline-block;
+  position: absolute;
+  top: 11vh;
+  left: 75vw;
+  text-transform: capitalize;
+  line-height: 20px;
+  margin: 20px;
+}
+
+#addNoteButton:hover {
+  font-size: 1.2em;
+
+}
+
+#addnote {
+  min-width: 85vw;
+  min-height: 30vh;
+
+}
+
+#addnoteContainer {
+  align-self: center;
+  display: none;
+  width: 100vw;
+  min-height: 35vh;
+  position: relative;
+  top: 1em;
+  padding: 5px;
+}
+
+.buttonStyle {
+  width: 60vw;
+}
+
+#cardBoxWidth {
+  width: 100%;
+}
