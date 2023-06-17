@@ -75,6 +75,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 this section starts both frontend and backend
 
-
 ### hopme page of website
+![home after logged in](https://github.com/Abhiraj-07/myNoteBook/assets/107505901/6b3f29c8-38c2-4620-909a-63b010398287)
+
+### login page
+
+![login page](https://github.com/Abhiraj-07/myNoteBook/assets/107505901/9687d18a-7dea-4634-acc1-200e322ef8db)
+
+
+### TERms and Condition  page
+
+![terms and condition](https://github.com/Abhiraj-07/myNoteBook/assets/107505901/4d91bb74-b0f2-4ef7-99a1-ee739d91f2ab)
+
+
+### register page 
+
+
+![signup page](https://github.com/Abhiraj-07/myNoteBook/assets/107505901/6b8aa1e4-f65f-485f-b9c2-7c75028d0972)
+
+
+
+### About page
+
+![about](https://github.com/Abhiraj-07/myNoteBook/assets/107505901/76dcc0d3-c83c-45bf-a650-ec087ad0d675)
+
 
